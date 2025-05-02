@@ -562,7 +562,7 @@ with st.expander("Comment Jouer"):
     1. Le but et d'aligner trois de vos symboles (horizontalement, verticalement ou en diagonale).
     2. Vous et l'IA jouez à tour de rôle.
     3. Le premier joueur à aligner trois symboles gagne.
-    4. Si toutes les cases sont remplies et personne n'a gagné, c'est un match nul.
+    4. Si toute les cases sont remplies et personne n'a gagné, c'est un match nul.
     
     **Difficulté actuelle:** {} - {}
     
