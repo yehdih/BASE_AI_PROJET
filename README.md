@@ -141,7 +141,7 @@ L'IA ajuste sa stratégie en fonction du niveau de difficulté choisi:
 - Aucun coup aléatoire
 - Évaluation précise sans variations
 
-Ce graphique illustre la performance de l'IA à différents niveaux de difficulté:
+Ce graphique illustr la performance de l'IA à différents niveaux de difficulté:
 
 ```
 Niveau de difficulté vs Taux de victoire de l'IA
