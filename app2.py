@@ -5,7 +5,7 @@
 import tkinter as tk
 import random
 
-"""Cette classe représente le jeu de Morpion
+"""Cete classe représente le jeu de Morpion
    Elle gère l'état du jeu, les mouvements des joueurs et l'algorithme Minimax.
 """
 class Morpion:
